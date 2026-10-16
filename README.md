@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm deftero-dev 👋
 
-<!--
-**deftero-dev/deftero-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Full-Stack Developer and Data scientist
+Based in **Mada** • Passionate about building clean and efficient code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 **Currently working on:** academic IT
+- 🌱 **Learning:** AI, mobile application, workflow automation
+- 💬 **Ask me about:** React, Python, Laravel, Flutter
+
+---
+
+
+### 🎯 My Goals for this Year
+- 💻 Build my very first personal applications.
+- 🤝 Contribute to my first open-source project.
+- 🚀 Push code to GitHub every single week.
